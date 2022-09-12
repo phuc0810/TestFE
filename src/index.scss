@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// base
+@import "./assets/base/reset";
+
+// helper
+@import "./assets/helpers/variables";
+@import "./assets/helpers/mixin";
+
+// components
+@import './assets/components/section_one'
+
+// pages
+
+// templates
+
+// themes
